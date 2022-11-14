@@ -1,0 +1,3 @@
+MVP,Intentos: 6 - Fallos: 3
+juanma,Intentos: 12 - Fallos: 9
+profe,Intentos: 4 - Fallos: 1

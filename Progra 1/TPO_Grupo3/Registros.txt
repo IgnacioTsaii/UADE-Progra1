@@ -1,0 +1,6 @@
+ignacio,Rango: MAESTRO DESACTIVADOR DE BOMBAS- Fallos: 0
+ignacio,Rango: MAESTRO DESACTIVADOR DE BOMBAS- Fallos: 0
+igacasd,Rango: PLATA- Fallos: 12
+asd,Rango: PLATA- Fallos: 13
+asd,Rango: PLATA- Fallos: 14
+asd,Rango: BRONCE- Fallos: 15
